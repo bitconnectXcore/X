@@ -41,7 +41,7 @@ However, the original bitconnectX blockchain from 2018 did not successfully tran
 ![alt text](https://cdn.discordapp.com/attachments/643796993314914304/689900984822136932/pow_end.PNG "Proof Of Wrok Mining End")
 [<p align="right">bitconnectX BlockChain Open Source Code</p>](https://github.com/bitconnectcoin/bitconnectx/blob/master/src/main.h "bitconnectX BlockChain Open Source Code")
 
-The [blockchain](https://chainz.cryptoid.info/bccx/#!crypto "Blockchain") was restarted with a Genesis block by the miners of BitconnectxPool, [(MinersHub.one on Discord)](https://discord.gg/xu2eQhw). The first block was on the 8th of July 2019 and it was given away around Discord. One month later in August 2019 the bitconnectX Genesis blockchain successfully transitioned from Proof Of Work mining to Proof Of Stake mining.
+The [blockchain](https://chainz.cryptoid.info/bccx/#!crypto "Blockchain") was restarted with a Genesis block by the miners of [BitconnectxPool MinersHub.one of Discord](https://discord.gg/xu2eQhw) on the 8th of July 2019 and it was given away around Discord. One month later in August 2019, the bitconnectX Genesis blockchain successfully transitioned from Proof Of Work mining to Proof Of Stake mining.
 
 **Key Points**
 - Very Little Information Is Actually Known About bitconnectX
@@ -55,7 +55,7 @@ The [blockchain](https://chainz.cryptoid.info/bccx/#!crypto "Blockchain") was re
 - You Solo Mine Your Own Blocks
 - Only A Windows Wallet And A Mac Daemon Were Released By bitconnect(X)
 - Managing BCCX UTXO's Requires More Effort Than A bitconnectCoin Node
-- Competing For Blocks Keeps The Network Alive
+- Competing For Blocks Keeps The Blockchain Network Alive
 - 90 Day Optional Time Lock
 - The Wallet User Interface Was Not Finished By bitconnect(X)
 - Block Rewards May Well Be Replaced With Miner Fee Mining Rewards *(see below)*
@@ -65,6 +65,30 @@ The [blockchain](https://chainz.cryptoid.info/bccx/#!crypto "Blockchain") was re
 [<p align="center">Inflation</p>](https://chainz.cryptoid.info/bccx/#@inflation "Inflation")
 Based on the publicly available blockchain ledger diagram and information, the total supply of bitconnectX increases by around 10% every 3 months. With the current participation, block reward rate and difficulty it can be suspected that bitconnectX has one more phase, post inflation. 
 
-Post Inflation may well begin in around 4 years when the full supply is reached, after which the block rewards will be replaced by miner fee mining rewards and no new bitconnectX coins will **ever** be mined.
+Post inflation may well begin in around 4 years when the full supply is reached, after which the block rewards will be replaced by miner fee mining rewards and no new bitconnectX coins will **ever** be mined.
 ![alt text](https://cdn.discordapp.com/attachments/643796993314914304/689907876537565237/xinflation.png "Inflation")
 [<p align="right">bitconnectX BlockChain Open Source Code</p>](https://github.com/bitconnectcoin/bitconnectx/blob/master/src/main.cpp "bitconnectX BlockChain Open Source Code")
+
+---
+
+### Change Log
+
+- Basic User Interface Changes.
+- The Best Community Designs Within The User Interface.
+- Basic Changes To File Structure For Easier Compiling.
+
+Changes Can Be Seen [Here](https://github.com/bitconnectXcore/bitconnectX-Genesis/commits/master "Commits") And Described Below:
+
+**1.** [Commit.](https://github.com/bitconnectXcore/bitconnectX-Genesis/commit/165357426514d18a30135b6d542ef12a8502cebb "Commit") Two Folders Created For Easier Compilation [src/obj](https://github.com/bitconnectXcore/bitconnectX-Genesis/tree/master/src/obj "obj Folder") and [src/obj/zerocoin](https://github.com/bitconnectXcore/bitconnectX-Genesis/tree/master/src/obj/zerocoin "zerocoin Folder"). With a readMe.MD in each folder.
+
+**2.** [Commit.](https://github.com/bitconnectXcore/bitconnectX-Genesis/commit/8f6908cf79f9e7f44524f99a37cd12e13ec69a2d "Commit") Set wallet node user interface window size to fixed, akin to BCC on Windows.
+
+**3.** [Commit.](https://github.com/bitconnectXcore/bitconnectX-Genesis/commit/93277640ff9d6bcb8504962c4595ffe2ab6a795c "Commit") Original bitconnect DNS node removed and replaced with community nodes as default. Enabling users to connect / sync and support the blockchain network.
+
+**4.** [Commit.](https://github.com/bitconnectXcore/bitconnectX-Genesis/commit/93277640ff9d6bcb8504962c4595ffe2ab6a795c "Commit") Two Splash Added, [Robot Hands](https://github.com/bitconnectXcore/bitconnectX-Genesis/blob/master/src/qt/res/images/splash3.png "Robot Hands") and Original [Splash Redeux](https://github.com/bitconnectXcore/bitconnectX-Genesis/blob/master/src/qt/res/images/splash4.png "Splash Redeux").
+
+**5.** [Commit.](https://github.com/bitconnectXcore/bitconnectX-Genesis/commit/93277640ff9d6bcb8504962c4595ffe2ab6a795c "Commit") Original Secondary backround removed. Original default backround archived and [new background image](https://github.com/bitconnectXcore/bitconnectX-Genesis/blob/master/src/qt/res/images/bkg.png "new background image") added.
+
+---
+
+![alt text](https://cdn.discordapp.com/attachments/643796993314914304/689948888374706222/bitfconnectX.PNG "bitconnectX")
