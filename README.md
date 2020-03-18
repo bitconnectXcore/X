@@ -65,7 +65,7 @@ The [blockchain](https://chainz.cryptoid.info/bccx/#!crypto "Blockchain") was re
 [<p align="center">Inflation</p>](https://chainz.cryptoid.info/bccx/#@inflation "Inflation")
 Based on the publicly available blockchain ledger diagram and information, the total supply of bitconnectX increases by around 10% every 3 months. With the current participation, block reward rate and difficulty it can be suspected that bitconnectX has one more phase, post inflation. 
 
-Post inflation may well begin in around 4 years when the full supply is reached, after which the block rewards will be replaced by miner fee mining rewards and no new bitconnectX coins will **ever** be mined.
+Post inflation may well begin in around 4 years (2023/2024) when the full supply is reached, after which the block rewards will be replaced by miner fee mining rewards and no new bitconnectX coins will **ever** be mined.
 ![alt text](https://cdn.discordapp.com/attachments/643796993314914304/689907876537565237/xinflation.png "Inflation")
 [<p align="right">bitconnectX BlockChain Open Source Code</p>](https://github.com/bitconnectcoin/bitconnectx/blob/master/src/main.cpp "bitconnectX BlockChain Open Source Code")
 
