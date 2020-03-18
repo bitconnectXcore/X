@@ -85,7 +85,7 @@ Changes Can Be Seen [Here](https://github.com/bitconnectXcore/bitconnectX-Genesi
 
 **3.** [Commit.](https://github.com/bitconnectXcore/bitconnectX-Genesis/commit/93277640ff9d6bcb8504962c4595ffe2ab6a795c "Commit") Original bitconnect DNS node removed and replaced with community nodes as default. Enabling users to connect / sync and support the blockchain network.
 
-**4.** [Commit.](https://github.com/bitconnectXcore/bitconnectX-Genesis/commit/93277640ff9d6bcb8504962c4595ffe2ab6a795c "Commit") Two Splash Added, [Robot Hands](https://github.com/bitconnectXcore/bitconnectX-Genesis/blob/master/src/qt/res/images/splash3.png "Robot Hands") and Original [Splash Redeux](https://github.com/bitconnectXcore/bitconnectX-Genesis/blob/master/src/qt/res/images/splash4.png "Splash Redeux").
+**4.** [Commit.](https://github.com/bitconnectXcore/bitconnectX-Genesis/commit/93277640ff9d6bcb8504962c4595ffe2ab6a795c "Commit") Original Splash removed. Two Splash Added, [Robot Hands](https://github.com/bitconnectXcore/bitconnectX-Genesis/blob/master/src/qt/res/images/splash3.png "Robot Hands") and Original [Splash Redeux](https://github.com/bitconnectXcore/bitconnectX-Genesis/blob/master/src/qt/res/images/splash4.png "Splash Redeux").
 
 **5.** [Commit.](https://github.com/bitconnectXcore/bitconnectX-Genesis/commit/93277640ff9d6bcb8504962c4595ffe2ab6a795c "Commit") Original Secondary backround removed. Original default backround archived and [new background image](https://github.com/bitconnectXcore/bitconnectX-Genesis/blob/master/src/qt/res/images/bkg.png "new background image") added.
 
