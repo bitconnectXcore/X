@@ -38,7 +38,7 @@ bitconnect blockchain mining has two phases; a time limited Proof Of Work mining
 
 However, the original bitconnectX blockchain from 2018 did not successfully transition from Proof Of Work to Proof Of Stake. The original bitconnectX blockchain froze at around block 28065, some 65 blocks into Proof Of Stake.
 
-![alt text](https://cdn.discordapp.com/attachments/643796993314914304/689900984822136932/pow_end.PNG "Proof Of Wrok Mining End")
+![alt text](https://cdn.discordapp.com/attachments/643796993314914304/689900984822136932/pow_end.PNG "Proof Of Work Mining End")
 [<p align="right">bitconnectX BlockChain Open Source Code</p>](https://github.com/bitconnectcoin/bitconnectx/blob/master/src/main.h "bitconnectX BlockChain Open Source Code")
 
 The [blockchain](https://chainz.cryptoid.info/bccx/#!crypto "Blockchain") was restarted with a Genesis block by the miners of [BitconnectxPool MinersHub.one of Discord](https://discord.gg/xu2eQhw) on the 8th of July 2019 and it was given away around Discord. One month later in August 2019, the bitconnectX Genesis blockchain successfully transitioned from Proof Of Work mining to Proof Of Stake mining.
