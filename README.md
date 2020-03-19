@@ -1,6 +1,6 @@
 ## bitconnectX **|** BCCX **|** BitConnect X **|** bitconnectX Genesis **|** ビットコネクトバツ
 
-**bitconnectX Genesis Is An Open-Source And BlockChain Based Decentralized Crypto-Currency**
+**An Open-Source And BlockChain Based Decentralized Crypto-Currency**
 
 **bitconnectX:** [BlockChain](https://chainz.cryptoid.info/bccx "BlockChain") **|** [Open Source Code](https://github.com/bitconnectcoin/bitconnectx/tree/master/src "Open Source Code") **|** [Wallet Releases](https://github.com/bitconnectcoin/bitconnectx/tree/master/wallet "Wallet Releases") **|** [Build Documents](https://github.com/bitconnectcoin/bitconnectx/tree/master/doc "Build Documents")
 
