@@ -14,7 +14,7 @@
 
 **The bitconnectCoin Community**
 
-**bitconnectXcore:** [Wiki](https://github.com/bitconnectCore/bitconnectCoin/wiki "Wiki") **|** [FAQs](https://discord.gg/JxMNabw "FAQs") **|** [BootStrap](https://github.com/bitconnectXcore/bitconnectX-Genesis-blockchain-bootstrap "BootStrap") *bitconnectCore GitHub Release*
+**bitconnectXcore:** [Wiki](https://github.com/bitconnectCore/bitconnectCoin/wiki "Wiki") **|** [FAQs](https://discord.gg/JxMNabw "FAQs") **|** [BootStrap](https://github.com/bitconnectXcore/bitconnectX-Genesis-blockchain-bootstrap "BootStrap") *Community GitHub Release*
 
 ---
 
@@ -22,9 +22,9 @@
 
 **BlockChain Resources**
 
-**General Wallet Tutorials:** [New](https://youtu.be/RTieeNXGNrE "New Wallet Tutorial") **|** [Old](https://youtu.be/OFPNmYAQYdw "Old Wallet Tutorial") *For BCC But Same Principle*
+**General Wallet Tutorials:** [New](https://youtu.be/RTieeNXGNrE "New Wallet Tutorial") **|** [Old](https://youtu.be/OFPNmYAQYdw "Old Wallet Tutorial") *For bitconnectCoin (same principle)*
 
-**Original bitconnectX GitHub:** [bitconnect](https://github.com/bitconnectcoin/bitconnectx/ "bitconnectX") **|**  [bitconnectX](https://github.com/bitconnectcoin/bitconnectx/ "bitconnectX")  
+**Original bitconnectX GitHub:** [bitconnectX](https://github.com/bitconnectCoin/bitconnectX/ "bitconnectX") **|**  [bitconnect](https://github.com/bitconnectCoin/bitconnectCoin/ "bitconnectCoin")  
 
 **Associated Exchange / Service GitHubs:** [PirateCash PirateDEX](https://github.com/piratecash/pirate-dex/releases "PirateCash PirateDEX") **|** [XBTS DEX](https://github.com/XBTS/xbts-ui/releases "PirateCash PirateDEX")
 
