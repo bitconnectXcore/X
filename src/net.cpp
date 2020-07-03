@@ -1802,7 +1802,7 @@ static const char *strDNSSeed[][2] = {
 void ThreadDNSAddressSeed(void* parg)
 {
     // Make this thread recognisable as the DNS seeding thread
-    RenameThread("bitconnectx-dnsseed");f
+    RenameThread("bitconnectx-dnsseed");
 
     try
     {
