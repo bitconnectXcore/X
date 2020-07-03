@@ -14,7 +14,7 @@
    <string>About bitconnectx</string>
   </property>
   <property name="styleSheet">
-     <string notr="true">background-image: url(:/images/bkg);</string>
+     <string notr="true">background-color: rgb(35, 209, 182);</string>
     </property>
   <layout class="QHBoxLayout" name="horizontalLayout_2">
    <item>
