@@ -1,4 +1,4 @@
-## bitconnectX **|** BCCX **|** BitConnect X **|** bitconnectX Genesis **|** ビットコネクトバツ
+## BCCX **|** BitConnect X **|** bitconnectX **|** bitconnectX Genesis **|** BitConnect X Genesis Coin **|** X-Genesis **|** BCCXGenesis **|** X **|** ビットコネクトバツ
 
 **An Open-Source And BlockChain Based Decentralized Crypto-Currency**
 
