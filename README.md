@@ -10,24 +10,6 @@
 
 ---
 
-### bitconnectXcore (7x repository) 
-
-**1.** Basic GUI Fix Of BCCX **|** [This](https://github.com/bitconnectXcore/X)
-
-**2.** Build / Compile Scripts **|** [Here](https://github.com/bitconnectXcore/bitconnectX-scrypt)
-
-**3.** Premade Peer .conf File **|** [Download](https://github.com/bitconnectXcore/bitconnectX-peers/archive/master.zip)
-
-**4.** BlockChain BootStrap **|** [Download](https://github.com/bitconnectXcore/bitconnectX-Genesis-blockchain-bootstrap/releases/download/1.0/bitconnectx.zip)
-
-**5.** BCCX Onboard **|** [Here](https://github.com/bitconnectXcore/bitconnectX-onboard)
-
-**6.** BCCX Build / Compile **|** [Here](https://github.com/bitconnectXcore/bitconnectX-buidl)
-
-**7.** BCCX Deploy Server **|** [Here](https://github.com/bitconnectXcore/bitconnectX-server)
-
----
-
 [<p align="center">bitconnectX</p>](https://chainz.cryptoid.info/bccx/#!crypto "bitconnectX")
 
 bitconnect blockchain mining has two phases; a time limited Proof Of Work mining phase and then a Proof Of Stake mining phase until the full supply is mined. The original bitconnectX blockchain launched on GitHub in early 2018 and was mined by a few public Proof Of Work mining pools, notably ["BitconnectxPool"](https://twitter.com/BitconnectxPool "BitconnectxPool") and ["bccxCloud"](https://twitter.com/bccxCloud "bccxCloud").
@@ -66,6 +48,24 @@ Post inflation may well begin in around 4 years (2023/2024) when the full supply
 [<p align="right">bitconnectX BlockChain Open Source Code</p>](https://github.com/bitconnectcoin/bitconnectx/blob/master/src/main.cpp "bitconnectX BlockChain Open Source Code")
 
 ---
+
+# <p align="center">**bitconnectXcore (7x repository)**</p>
+
+**1.** Basic GUI Fix Of BCCX **|** [This](https://github.com/bitconnectXcore/X)
+
+**2.** Build / Compile Scripts **|** [Here](https://github.com/bitconnectXcore/bitconnectX-scrypt)
+
+**3.** Premade Peer .conf File **|** [Download](https://github.com/bitconnectXcore/bitconnectX-peers/archive/master.zip)
+
+**4.** BlockChain BootStrap **|** [Download](https://github.com/bitconnectXcore/bitconnectX-Genesis-blockchain-bootstrap/releases/download/1.0/bitconnectx.zip)
+
+**5.** BCCX Onboard **|** [Here](https://github.com/bitconnectXcore/bitconnectX-onboard)
+
+**6.** BCCX Build / Compile **|** [Here](https://github.com/bitconnectXcore/bitconnectX-buidl)
+
+**7.** BCCX Deploy Server **|** [Here](https://github.com/bitconnectXcore/bitconnectX-server)
+
+------
 
 ### Change Log
 
