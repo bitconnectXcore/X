@@ -14,8 +14,8 @@
    <string>About bitconnectx</string>
   </property>
   <property name="styleSheet">
-     <string notr="true">background-color: rgb(35, 209, 182);</string>
-    </property>
+   <string notr="true"/>
+  </property>
   <layout class="QHBoxLayout" name="horizontalLayout_2">
    <item>
     <widget class="QLabel" name="label_4">
