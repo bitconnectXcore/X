@@ -87,13 +87,11 @@ Changes Can Be Seen [Here](https://github.com/bitconnectXcore/bitconnectX-Genesi
 
 **6.** [Commit.](https://github.com/bitconnectXcore/X/commit/3acd72a63306b558f930cc9a3d9ec1bccdc21fa0 "Commit") Skin folder added, about tab fixed, skins added, community nodes added and keystroke error removed [Commit.](https://github.com/bitconnectXcore/X/commit/0ca0a1a0bc55aa2a5e94f5a3c2c4003afc630198 "Commit")
 
-**7.** [Commit.](https://github.com/bitconnectXcore/X/commit/948e3a8c4314a97e53af8eb0829bd083333d3caf0 "Commit") Splash boot text colour correction, new default backround, about tab to plain colour window, removed NULL from nodelist. Text colour changed to fit with dark default, on GUI tabs; address book, overview and send coins.  
+**7.** [Commit.](https://github.com/bitconnectXcore/X/commit/948e3a8c4314a97e53af8eb0829bd083333d3caf0 "Commit") Splash boot text colour correction, new default backround, about tab to plain colour window, removed NULL from nodelist. Text colour changed to fit with dark default, on GUI tabs; address book, overview and send coins. Correction [commit.](https://github.com/bitconnectXcore/X/commit/bc9708d13e47d266a20c6ecb20ea81909e61e0e7 "Commit") For [correction](https://github.com/bitconnectXcore/X/blob/master/src/qt/res/images/bkg.png "correction") of backround; higher quality, cleaner bars and copied to skins folder. [Proof Of Activity](https://github.com/bitconnectXcore/X/commit/9acd123a8a1cf8bb5009658ae9ba6d897c157968) social consensus mining algorithm material added to documentation for educational purposes.
 
-**8.** [Commit.](https://github.com/bitconnectXcore/X/commit/bc9708d13e47d266a20c6ecb20ea81909e61e0e7 "Commit") Slight correction on backround, higher quality, cleaner bars and copied to skins folder.
-
-**9.** Complete! Additional Commits:
+**8.** Complete! Additional Commits:
    ####        Nodes - 
-   ####        Skins -
+   ####        Skins - 
 
 ---
 
