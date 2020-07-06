@@ -89,14 +89,12 @@ Changes Can Be Seen [Here](https://github.com/bitconnectXcore/bitconnectX-Genesi
 
 **7.** [Commit.](https://github.com/bitconnectXcore/X/commit/948e3a8c4314a97e53af8eb0829bd083333d3caf0 "Commit") Splash boot text colour correction, new default backround, about tab to plain colour window, removed NULL from nodelist. Text colour changed to fit with dark default, on GUI tabs; address book, overview and send coins.  
 
-**8.** [Commit.](https://github.com/bitconnectXcore/X/commit/3acd72a63306b558f930cc9a3d9ec1bccdc21fa0 "Commit") Original Secondary backround removed. Original default backround archived and [new background image](https://github.com/bitconnectXcore/bitconnectX-Genesis/blob/master/src/qt/res/images/bkg.png "new background image") added.
+**8.** [Commit.](https://github.com/bitconnectXcore/X/commit/bc9708d13e47d266a20c6ecb20ea81909e61e0e7 "Commit") Slight correction on backround, higher quality, cleaner bars and copied to skins folder.
 
-**9.** [Commit.](https://github.com/bitconnectXcore/X/commit/bc9708d13e47d266a20c6ecb20ea81909e61e0e7 "Commit") Slight correction on backround, higher quality, cleaner bars and copied to skins folder.
-
-**10.** Complete! Additional Commits:
+**9.** Complete! Additional Commits:
    ####        Nodes - 
    ####        Skins -
 
 ---
 
-![alt text](https://cdn.discordapp.com/attachments/643796993314914304/689948888374706222/bitfconnectX.PNG "bitconnectX")
+![alt text](https://cdn.discordapp.com/attachments/714979629844267059/729671759535538237/bitconnectX.png "bitconnectX")
