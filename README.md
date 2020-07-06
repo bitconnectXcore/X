@@ -1,34 +1,30 @@
-## BCCX **|** BitConnect X **|** bitconnectX **|** bitconnectX Genesis **|** BitConnect X Genesis Coin **|** X-Genesis **|** BCCXGenesis **|** X **|** ビットコネクトバツ
+## BCCX **|** BitConnect X **|** bitconnectX **|** bitconnectX Genesis **|** BitConnect X Genesis Coin **|** X-Genesis **|** BCCXGenesis **|** X **|** Genesis **|** ビットコネクトバツ
 
 **An Open-Source And BlockChain Based Decentralized Crypto-Currency**
 
 **bitconnectX:** [BlockChain](https://chainz.cryptoid.info/bccx "BlockChain") **|** [Open Source Code](https://github.com/bitconnectcoin/bitconnectx/tree/master/src "Open Source Code") **|** [Wallet Releases](https://github.com/bitconnectcoin/bitconnectx/tree/master/wallet "Wallet Releases") **|** [Build Documents](https://github.com/bitconnectcoin/bitconnectx/tree/master/doc "Build Documents")
 
-**Direct Wallet Download:** [Windows](https://github.com/bitconnectcoin/bitconnectx/blob/master/wallet/bitconnectx-qt.exe?raw=true "Windows") *Original bitconnectX GitHub Release*
+**Direct Wallet Download:** [Windows](https://github.com/bitconnectcoin/bitconnectx/blob/master/wallet/bitconnectx-qt.exe?raw=true "Windows") *Original bitconnectX GitHub Release (recommended)*
 
 **Daemon:** [Mac](https://github.com/bitconnectcoin/bitconnectx/blob/master/wallet/bitconnectxd?raw=true "Mac") *Original bitconnectX GitHub Release*
 
 ---
 
-### bitconnectXcore
+### bitconnectXcore (7x repository) 
 
-**The bitconnectCoin Community**
+**1.** Basic GUI Fix Of BCCX **|** [This](https://github.com/bitconnectXcore/X)
 
-**bitconnectXcore:** [Wiki](https://github.com/bitconnectCore/bitconnectCoin/wiki "Wiki") **|** [FAQs](https://discord.gg/JxMNabw "FAQs") **|** [BootStrap](https://github.com/bitconnectXcore/bitconnectX-Genesis-blockchain-bootstrap "BootStrap") *Community GitHub Release*
+**2.** Build / Compile Scripts **|** [Here](https://github.com/bitconnectXcore/bitconnectX-scrypt)
 
----
+**3.** Premade Peer .conf File **|** [Download](https://github.com/bitconnectXcore/bitconnectX-peers/archive/master.zip)
 
-### Information
+**4.** BlockChain BootStrap **|** [Download](https://github.com/bitconnectXcore/bitconnectX-Genesis-blockchain-bootstrap/releases/download/1.0/bitconnectx.zip)
 
-**BlockChain Resources**
+**5.** BCCX Onboard **|** [Here](https://github.com/bitconnectXcore/bitconnectX-onboard)
 
-**General Wallet Tutorials:** [New](https://youtu.be/RTieeNXGNrE "New Wallet Tutorial") **|** [Old](https://youtu.be/OFPNmYAQYdw "Old Wallet Tutorial") *For bitconnectCoin (same principle)*
+**6.** BCCX Build / Compile **|** [Here](https://github.com/bitconnectXcore/bitconnectX-buidl)
 
-**Original bitconnectX GitHub:** [bitconnectX](https://github.com/bitconnectCoin/bitconnectX/ "bitconnectX") **|**  [bitconnect](https://github.com/bitconnectCoin/bitconnectCoin/ "bitconnectCoin")  
-
-**Associated Exchange / Service GitHubs:** [PirateCash PirateDEX](https://github.com/piratecash/pirate-dex/releases "PirateCash PirateDEX") **|** [XBTS DEX](https://github.com/XBTS/xbts-ui/releases "PirateCash PirateDEX")
-
-**Unofficial Community GitHubs:** [bitconnectCoin.info](https://github.com/bitconnectcoininfo/ "bitconnectCoin.info")  **|**  [ThebCC.app](https://github.com/ThebCC/ "ThebCC.app")  **|**  [bitconnectCore.org](https://github.com/bitconnectCore/ "bitconnectCore.org")  **|**  [bitconnectXcore.org](https://github.com/bitconnectXcore/ "bitconnectXcore.org")
+**7.** BCCX Deploy Server **|** [Here](https://github.com/bitconnectXcore/bitconnectX-server)
 
 ---
 
@@ -88,6 +84,18 @@ Changes Can Be Seen [Here](https://github.com/bitconnectXcore/bitconnectX-Genesi
 **4.** [Commit.](https://github.com/bitconnectXcore/bitconnectX-Genesis/commit/93277640ff9d6bcb8504962c4595ffe2ab6a795c "Commit") Original Splash removed. Two Splash Added, [Robot Hands](https://github.com/bitconnectXcore/bitconnectX-Genesis/blob/master/src/qt/res/images/splash3.png "Robot Hands") and Original [Splash Redeux](https://github.com/bitconnectXcore/bitconnectX-Genesis/blob/master/src/qt/res/images/splash4.png "Splash Redeux").
 
 **5.** [Commit.](https://github.com/bitconnectXcore/bitconnectX-Genesis/commit/93277640ff9d6bcb8504962c4595ffe2ab6a795c "Commit") Original Secondary backround removed. Original default backround archived and [new background image](https://github.com/bitconnectXcore/bitconnectX-Genesis/blob/master/src/qt/res/images/bkg.png "new background image") added.
+
+**6.** [Commit.](https://github.com/bitconnectXcore/X/commit/3acd72a63306b558f930cc9a3d9ec1bccdc21fa0 "Commit") Skin folder added, about tab fixed, skins added, community nodes added and keystroke error removed [Commit.](https://github.com/bitconnectXcore/X/commit/0ca0a1a0bc55aa2a5e94f5a3c2c4003afc630198 "Commit")
+
+**7.** [Commit.](https://github.com/bitconnectXcore/X/commit/948e3a8c4314a97e53af8eb0829bd083333d3caf0 "Commit") Splash boot text colour correction, new default backround, about tab to plain colour window, removed NULL from nodelist. Text colour changed to fit with dark default, on GUI tabs; address book, overview and send coins.  
+
+**8.** [Commit.](https://github.com/bitconnectXcore/X/commit/3acd72a63306b558f930cc9a3d9ec1bccdc21fa0 "Commit") Original Secondary backround removed. Original default backround archived and [new background image](https://github.com/bitconnectXcore/bitconnectX-Genesis/blob/master/src/qt/res/images/bkg.png "new background image") added.
+
+**9.** [Commit.](https://github.com/bitconnectXcore/X/commit/bc9708d13e47d266a20c6ecb20ea81909e61e0e7 "Commit") Slight correction on backround, higher quality, cleaner bars and copied to skins folder.
+
+**10.** Complete! Additional Commits:
+        Nodes - 
+        Skins -
 
 ---
 
