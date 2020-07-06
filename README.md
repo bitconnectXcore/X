@@ -94,8 +94,8 @@ Changes Can Be Seen [Here](https://github.com/bitconnectXcore/bitconnectX-Genesi
 **9.** [Commit.](https://github.com/bitconnectXcore/X/commit/bc9708d13e47d266a20c6ecb20ea81909e61e0e7 "Commit") Slight correction on backround, higher quality, cleaner bars and copied to skins folder.
 
 **10.** Complete! Additional Commits:
-        Nodes - 
-        Skins -
+   ####        Nodes - 
+   ####        Skins -
 
 ---
 
